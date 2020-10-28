@@ -1,0 +1,38 @@
+[27-Mar-2020 16:46:18 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 24
+[27-Mar-2020 16:46:18 UTC] PHP Warning:  Illegal string offset 'picture' in /home/etig3vuxohd2/public_html/landf/products.php on line 32
+[27-Mar-2020 16:46:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/etig3vuxohd2/public_html/landf/products.php on line 32
+[27-Mar-2020 16:46:18 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/etig3vuxohd2/public_html/landf/products.php on line 32
+[27-Mar-2020 16:46:18 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/etig3vuxohd2/public_html/landf/products.php on line 34
+[27-Mar-2020 16:46:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/etig3vuxohd2/public_html/landf/products.php on line 34
+[27-Mar-2020 16:46:18 UTC] PHP Warning:  Illegal string offset 'last_name' in /home/etig3vuxohd2/public_html/landf/products.php on line 34
+[27-Mar-2020 16:46:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/etig3vuxohd2/public_html/landf/products.php on line 34
+[27-Mar-2020 16:46:18 UTC] PHP Warning:  Illegal string offset 'email' in /home/etig3vuxohd2/public_html/landf/products.php on line 35
+[27-Mar-2020 16:46:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/etig3vuxohd2/public_html/landf/products.php on line 35
+[27-Mar-2020 16:46:18 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 47
+[27-Mar-2020 16:46:18 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 150
+[27-Mar-2020 16:46:26 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 24
+[27-Mar-2020 16:46:26 UTC] PHP Warning:  Illegal string offset 'picture' in /home/etig3vuxohd2/public_html/landf/products.php on line 32
+[27-Mar-2020 16:46:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/etig3vuxohd2/public_html/landf/products.php on line 32
+[27-Mar-2020 16:46:26 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/etig3vuxohd2/public_html/landf/products.php on line 32
+[27-Mar-2020 16:46:26 UTC] PHP Warning:  Illegal string offset 'first_name' in /home/etig3vuxohd2/public_html/landf/products.php on line 34
+[27-Mar-2020 16:46:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/etig3vuxohd2/public_html/landf/products.php on line 34
+[27-Mar-2020 16:46:26 UTC] PHP Warning:  Illegal string offset 'last_name' in /home/etig3vuxohd2/public_html/landf/products.php on line 34
+[27-Mar-2020 16:46:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/etig3vuxohd2/public_html/landf/products.php on line 34
+[27-Mar-2020 16:46:26 UTC] PHP Warning:  Illegal string offset 'email' in /home/etig3vuxohd2/public_html/landf/products.php on line 35
+[27-Mar-2020 16:46:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/etig3vuxohd2/public_html/landf/products.php on line 35
+[27-Mar-2020 16:46:26 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 47
+[27-Mar-2020 16:46:26 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 150
+[27-Mar-2020 17:01:50 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 24
+[27-Mar-2020 17:01:50 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 95
+[27-Mar-2020 17:02:30 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 20
+[27-Mar-2020 17:02:30 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 91
+[27-Mar-2020 17:03:39 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 20
+[27-Mar-2020 17:03:39 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 91
+[27-Mar-2020 17:29:39 UTC] PHP Notice:  Only variables should be passed by reference in /home/etig3vuxohd2/public_html/landf/classes/config.php on line 161
+[27-Mar-2020 17:29:39 UTC] PHP Notice:  Use of undefined constant FCPATH - assumed 'FCPATH' in /home/etig3vuxohd2/public_html/landf/classes/config.php on line 174
+[27-Mar-2020 17:29:39 UTC] PHP Warning:  move_uploaded_file(FCPATHuploads/Screenshot 2020-03-14 at 10.39.06 PM.png): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/classes/config.php on line 174
+[27-Mar-2020 17:29:39 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWfzoPZ' to 'FCPATHuploads/Screenshot 2020-03-14 at 10.39.06 PM.png' in /home/etig3vuxohd2/public_html/landf/classes/config.php on line 174
+[27-Mar-2020 17:32:49 UTC] PHP Notice:  Only variables should be passed by reference in /home/etig3vuxohd2/public_html/landf/classes/config.php on line 161
+[27-Mar-2020 20:04:19 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 27
+[27-Mar-2020 20:06:41 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 27
+[27-Mar-2020 20:06:48 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/products.php on line 27

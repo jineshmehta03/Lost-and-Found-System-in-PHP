@@ -1,0 +1,284 @@
+[15-Mar-2020 17:42:23 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[15-Mar-2020 17:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[15-Mar-2020 17:43:42 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[15-Mar-2020 17:43:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[15-Mar-2020 17:49:34 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[15-Mar-2020 17:49:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[15-Mar-2020 17:51:15 UTC] PHP Warning:  include(../classes/categories.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[15-Mar-2020 17:51:15 UTC] PHP Warning:  include(): Failed opening '../classes/categories.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[15-Mar-2020 17:51:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Categories' not found in /home/etig3vuxohd2/public_html/landf/admin/categories.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 3
+[15-Mar-2020 17:51:41 UTC] PHP Warning:  include(../classes/categories.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[15-Mar-2020 17:51:41 UTC] PHP Warning:  include(): Failed opening '../classes/categories.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[15-Mar-2020 17:51:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Categories' not found in /home/etig3vuxohd2/public_html/landf/admin/categories.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 3
+[15-Mar-2020 17:52:57 UTC] PHP Warning:  include(../classes/categories.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[15-Mar-2020 17:52:57 UTC] PHP Warning:  include(): Failed opening '../classes/categories.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[15-Mar-2020 17:52:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Categories' not found in /home/etig3vuxohd2/public_html/landf/admin/categories.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 3
+[15-Mar-2020 17:53:14 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[15-Mar-2020 17:53:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[15-Mar-2020 17:53:25 UTC] PHP Warning:  include(../classes/categories.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[15-Mar-2020 17:53:25 UTC] PHP Warning:  include(): Failed opening '../classes/categories.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[15-Mar-2020 17:53:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Categories' not found in /home/etig3vuxohd2/public_html/landf/admin/categories.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 3
+[15-Mar-2020 17:53:40 UTC] PHP Warning:  include(../classes/categories.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[15-Mar-2020 17:53:40 UTC] PHP Warning:  include(): Failed opening '../classes/categories.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[15-Mar-2020 17:53:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Categories' not found in /home/etig3vuxohd2/public_html/landf/admin/categories.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 3
+[16-Mar-2020 02:18:24 UTC] PHP Warning:  include(../classes/categories.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[16-Mar-2020 02:18:24 UTC] PHP Warning:  include(): Failed opening '../classes/categories.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[16-Mar-2020 02:18:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Categories' not found in /home/etig3vuxohd2/public_html/landf/admin/categories.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 3
+[16-Mar-2020 02:19:00 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:19:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:19:49 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:19:57 UTC] PHP Warning:  include(../classes/categories.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[16-Mar-2020 02:19:57 UTC] PHP Warning:  include(): Failed opening '../classes/categories.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[16-Mar-2020 02:19:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Categories' not found in /home/etig3vuxohd2/public_html/landf/admin/categories.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 3
+[16-Mar-2020 02:20:02 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:20:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:20:46 UTC] PHP Warning:  include(../classes/categories.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[16-Mar-2020 02:20:46 UTC] PHP Warning:  include(): Failed opening '../classes/categories.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[16-Mar-2020 02:20:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Categories' not found in /home/etig3vuxohd2/public_html/landf/admin/categories.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 3
+[16-Mar-2020 02:22:05 UTC] PHP Warning:  include(classes/categories.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[16-Mar-2020 02:22:05 UTC] PHP Warning:  include(): Failed opening 'classes/categories.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 2
+[16-Mar-2020 02:22:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Categories' not found in /home/etig3vuxohd2/public_html/landf/admin/categories.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 3
+[16-Mar-2020 02:23:31 UTC] PHP Warning:  include(../classes/categories.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/includes/header.php on line 5
+[16-Mar-2020 02:23:31 UTC] PHP Warning:  include(): Failed opening '../classes/categories.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/includes/header.php on line 5
+[16-Mar-2020 02:23:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Categories' not found in /home/etig3vuxohd2/public_html/landf/admin/categories.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/categories.php on line 3
+[16-Mar-2020 02:24:37 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:24:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:28:27 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:28:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:28:30 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:28:49 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:28:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:29:50 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:29:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(250): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 02:30:50 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 262
+[16-Mar-2020 02:30:50 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 294
+[16-Mar-2020 02:30:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/index.php:294
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 294
+[16-Mar-2020 02:31:05 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 262
+[16-Mar-2020 02:31:05 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 294
+[16-Mar-2020 02:31:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/index.php:294
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 294
+[16-Mar-2020 02:31:12 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 262
+[16-Mar-2020 02:31:12 UTC] PHP Notice:  Undefined variable: catObj in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 294
+[16-Mar-2020 02:31:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/index.php:294
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 294
+[16-Mar-2020 02:32:59 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 262
+[16-Mar-2020 02:50:20 UTC] PHP Warning:  require(classes/User.class.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 1
+[16-Mar-2020 02:50:20 UTC] PHP Fatal error:  require(): Failed opening required 'classes/User.class.php' (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 1
+[16-Mar-2020 02:53:18 UTC] PHP Warning:  include(classes/User.class.php): failed to open stream: No such file or directory in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 2
+[16-Mar-2020 02:53:18 UTC] PHP Warning:  include(): Failed opening 'classes/User.class.php' for inclusion (include_path='/home/etig3vuxohd2/public_html/landf/classes/google-api-php-client:.:/opt/alt/php70/usr/share/pear') in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 2
+[16-Mar-2020 03:23:24 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 391
+[16-Mar-2020 03:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function r() in /home/etig3vuxohd2/public_html/landf/admin/index.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 128
+[16-Mar-2020 03:24:14 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 391
+[16-Mar-2020 03:25:00 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 391
+[16-Mar-2020 03:25:04 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 391
+[16-Mar-2020 03:25:37 UTC] PHP Notice:  Undefined index: id in /home/etig3vuxohd2/public_html/landf/admin/index.php on line 391
+[16-Mar-2020 03:36:01 UTC] PHP Fatal error:  Cannot declare class Categories, because the name is already in use in /home/etig3vuxohd2/public_html/landf/classes/Categories.php on line 99
+[16-Mar-2020 03:36:58 UTC] PHP Fatal error:  Cannot declare class Categories, because the name is already in use in /home/etig3vuxohd2/public_html/landf/classes/Categories.php on line 99
+[16-Mar-2020 03:38:54 UTC] PHP Fatal error:  Cannot declare class Categories, because the name is already in use in /home/etig3vuxohd2/public_html/landf/classes/Categories.php on line 99
+[16-Mar-2020 03:39:29 UTC] PHP Fatal error:  Cannot declare class Categories, because the name is already in use in /home/etig3vuxohd2/public_html/landf/classes/Categories.php on line 99
+[16-Mar-2020 03:45:56 UTC] PHP Fatal error:  Cannot declare class Categories, because the name is already in use in /home/etig3vuxohd2/public_html/landf/classes/Categories.php on line 99
+[16-Mar-2020 04:11:46 UTC] PHP Fatal error:  Cannot declare class Categories, because the name is already in use in /home/etig3vuxohd2/public_html/landf/classes/Categories.php on line 99
+[16-Mar-2020 04:12:19 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 04:12:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/categories.php(96): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 04:12:29 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 04:12:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 04:16:05 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 04:16:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:05:02 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:07:06 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:07:25 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:07:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/categories.php(96): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:07:33 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:12:26 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:12:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:12:43 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:12:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/categories.php(96): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:13:03 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:13:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:15:37 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:15:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:16:11 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:16:44 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:16:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/categories.php(96): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:17:20 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:44:12 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[16-Mar-2020 05:44:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[18-Mar-2020 06:04:46 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[18-Mar-2020 06:04:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[19-Mar-2020 05:13:25 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[19-Mar-2020 05:13:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[23-Mar-2020 12:54:58 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[23-Mar-2020 12:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[25-Mar-2020 10:14:49 UTC] PHP Notice:  Undefined variable: catObjj in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
+[25-Mar-2020 10:14:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getParentCategories() on null in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php:92
+Stack trace:
+#0 /home/etig3vuxohd2/public_html/landf/admin/index.php(356): include()
+#1 {main}
+  thrown in /home/etig3vuxohd2/public_html/landf/admin/includes/footer.php on line 92
